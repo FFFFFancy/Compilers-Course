@@ -46,10 +46,6 @@ Action action[][16]={
 int Goto[3][10];
 int num;//词法分析得到的单词个数
 string Vn = "ETF";//非终结符
-// char *key[10]={"main","void","int","char","printf","scanf","else","if","return"};
-// char Word[20],ch;
-// int Seq;//三元式序号
-// string Equ[MAX][3];//存储三元式
 
 
 int i=0,j=0;
