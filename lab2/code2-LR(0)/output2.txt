@@ -1,0 +1,13 @@
+78*(23+1)#
+Yes
+((Aa+Bb)*(88.2/3))#
+Yes
+((Aa+Bb)**(88.2/3))#
+No, Error: Parsing error!
+x+y+z#
+Yes
+6*7+5+2+#
+No, Error: Parsing error!
++5#
+No, Error: Parsing error!
+#
